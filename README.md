@@ -86,7 +86,9 @@ that doesn't page you at 3AM.
 
 ```yaml
 long_term_builds: MVP → production, architecture-first
+
 short_term_consulting: performance audits, integration fixes, legacy rescue
+
 availability: open to full builds, retainers, and overflow scaling
 ```
 
