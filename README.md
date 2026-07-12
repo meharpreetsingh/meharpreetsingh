@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+7%2B+Years;Flutter+%26+Dart+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Golang;I+turn+specs+into+shipped+production+systems;Currently+debugging+something%2C+probably" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+3%2B+Years;Flutter+%26+Dart+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Golang;I+turn+specs+into+shipped+production+systems;Currently+debugging+something%2C+probably" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ```bash
 > cat about_me.txt
 
-7+ years shipping cross-platform mobile apps and full-stack web systems.
-50K+ downloads across App Store & Google Play.
-Built an Airbnb-style healthcare platform, logistics tracking systems,
+3+ years shipping cross-platform mobile apps and full-stack web systems.
+500K+ downloads across App Store & Google Play.
+Built 20+ Production Applications
 and more monetization pipelines than I care to count.
 
 Specialty: taking messy legacy code and turning it into something
