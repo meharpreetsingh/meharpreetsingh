@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meharpreetsingh&style=flat-square&color=2EE6A6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=meharpreetsingh&style=flat-square&color=2EE6A6&base=122" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-2EE6A6?style=flat-square" alt="Available for hire" />
   <img src="https://img.shields.io/badge/Location-%20Remote-2EE6A6?style=flat-square" alt="Location" />
 </p>
